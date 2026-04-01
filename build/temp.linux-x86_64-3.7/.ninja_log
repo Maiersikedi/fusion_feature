@@ -1,0 +1,3 @@
+# ninja log v5
+0	488	1773815910451364313	/home/data/OpenOccupancy/build/temp.linux-x86_64-3.7/projects/occ_plugin/ops/occ_pooling/src/occ_pool_cuda.o	cc9c3cc344c70cfc
+0	13277	1773815923233473892	/home/data/OpenOccupancy/build/temp.linux-x86_64-3.7/projects/occ_plugin/ops/occ_pooling/src/occ_pool.o	e5925a5218aed8b9
